@@ -39,14 +39,19 @@ In today's digital landscape, strong and unique passwords are paramount.  This p
 ## Installation
 
 1. Clone the repository:(https://github.com/shubh9119/PasswordGenerator.git).............................
-   Open the index.html file in your web browser.
+   
+2. Open the index.html file in your web browser.
 
 2.How to Use
 
 1.Adjust the password length using the slider or input field.
-2,Select the desired character types (uppercase, lowercase, numbers, symbols).
+
+2.Select the desired character types (uppercase, lowercase, numbers, symbols).
+
 3.Click the "Generate Password" button.
+
 4.The generated password will be displayed.
+
 5.Click the "Copy" button to copy the password to your clipboard.
 
 Screenshots
@@ -63,10 +68,14 @@ Screenshots
 Future Enhancements
 
 1.Password History (with secure storage): Allow users to view previously generated passwords (with appropriate security measures).
+
 2.Pronounceable Password Option: Generate passwords that are easy to pronounce and remember.
+
 3.Password Saving/Management (with encryption): Implement secure storage for generated passwords.
+
 4.Integration with password managers (if feasible).
 Contributing
+
 5.Contributions are welcome!  Please open an issue or submit a pull request if you have any suggestions or improvements.
 
 License

@@ -42,6 +42,7 @@ In today's digital landscape, strong and unique passwords are paramount.  This p
    Open the index.html file in your web browser.
 
 2.How to Use
+
 1.Adjust the password length using the slider or input field.
 2,Select the desired character types (uppercase, lowercase, numbers, symbols).
 3.Click the "Generate Password" button.
@@ -49,6 +50,7 @@ In today's digital landscape, strong and unique passwords are paramount.  This p
 5.Click the "Copy" button to copy the password to your clipboard.
 
 Screenshots
+
 1.#Before generating paassword
 ![Screenshot (3)](https://github.com/user-attachments/assets/7898fe3c-9c2a-487d-85d1-d97a417b30dc)
 
@@ -59,12 +61,13 @@ Screenshots
 
 
 Future Enhancements
-Password History (with secure storage): Allow users to view previously generated passwords (with appropriate security measures).
-Pronounceable Password Option: Generate passwords that are easy to pronounce and remember.
-Password Saving/Management (with encryption): Implement secure storage for generated passwords.
-Integration with password managers (if feasible).
+
+1.Password History (with secure storage): Allow users to view previously generated passwords (with appropriate security measures).
+2.Pronounceable Password Option: Generate passwords that are easy to pronounce and remember.
+3.Password Saving/Management (with encryption): Implement secure storage for generated passwords.
+4.Integration with password managers (if feasible).
 Contributing
-Contributions are welcome!  Please open an issue or submit a pull request if you have any suggestions or improvements.
+5.Contributions are welcome!  Please open an issue or submit a pull request if you have any suggestions or improvements.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -73,6 +76,7 @@ Contact
 Feel free to contact me with any questions or feedback:   
 
 Email:ss7944844@gmail.com
+
 GitHub: https://www.github.com/shubh9119
 
 **Key improvements and explanations:**

@@ -39,8 +39,7 @@ In today's digital landscape, strong and unique passwords are paramount.  This p
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your_username/password-generator.git](https://www.google.com/search?q=https://github.com/shubh9119/password-generator.git)  (Replace with your repo URL)
+   (https://github.com/shubh9119/PasswordGenerator.git)
    Open the index.html file in your web browser.
 2.How to Use
 Adjust the password length using the slider or input field.
